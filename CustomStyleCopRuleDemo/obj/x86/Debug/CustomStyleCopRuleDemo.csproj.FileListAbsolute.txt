@@ -1,0 +1,12 @@
+I:\StyleCopDemo\StyleCopDemo\CustomStyleCopRuleDemo\bin\Debug\CustomStyleCopRuleDemo.dll
+I:\StyleCopDemo\StyleCopDemo\CustomStyleCopRuleDemo\bin\Debug\CustomStyleCopRuleDemo.pdb
+I:\StyleCopDemo\StyleCopDemo\CustomStyleCopRuleDemo\bin\Debug\Microsoft.StyleCop.CSharp.dll
+I:\StyleCopDemo\StyleCopDemo\CustomStyleCopRuleDemo\bin\Debug\Microsoft.StyleCop.CSharp.Rules.dll
+I:\StyleCopDemo\StyleCopDemo\CustomStyleCopRuleDemo\bin\Debug\Microsoft.StyleCop.dll
+I:\StyleCopDemo\StyleCopDemo\CustomStyleCopRuleDemo\bin\Debug\Microsoft.StyleCop.VSPackage.dll
+C:\Program Files\Microsoft StyleCop 4.4.0.14\CustomStyleCopRuleDemo.dll
+C:\bin\StyleCopDemo.dll
+C:\bin\StyleCopDemo.pdb
+I:\StyleCopDemo\StyleCopDemo\CustomStyleCopRuleDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\StyleCopDemo\StyleCopDemo\CustomStyleCopRuleDemo\obj\x86\Debug\StyleCopDemo.dll
+I:\StyleCopDemo\StyleCopDemo\CustomStyleCopRuleDemo\obj\x86\Debug\StyleCopDemo.pdb

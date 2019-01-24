@@ -1,0 +1,13 @@
+﻿
+<?xml version="1.0" encoding="utf-8" ?>
+<SourceAnalyzer Name="Extensions">
+  <Description>
+    These custom rules provide extensions to the ones provided with StyleCop.
+  </Description>
+  <Rules>
+    <Rule Name="InstanceVariablesVarPrefix" CheckId="EX1001">
+      <Context>Instance variables should be prefixed by var keyword.</Context>
+      <Description>Instance variables should be prefixed by var keyword.</Description>
+    </Rule>
+  </Rules>
+</SourceAnalyzer>

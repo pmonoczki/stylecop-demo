@@ -1,0 +1,5 @@
+I:\StyleCopDemo\StyleCopDemo\StyleCopDemo\bin\Debug\StyleCopDemo.exe
+I:\StyleCopDemo\StyleCopDemo\StyleCopDemo\bin\Debug\StyleCopDemo.pdb
+I:\StyleCopDemo\StyleCopDemo\StyleCopDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\StyleCopDemo\StyleCopDemo\StyleCopDemo\obj\x86\Debug\StyleCopDemo.exe
+I:\StyleCopDemo\StyleCopDemo\StyleCopDemo\obj\x86\Debug\StyleCopDemo.pdb

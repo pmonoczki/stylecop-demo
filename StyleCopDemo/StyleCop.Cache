@@ -1,0 +1,36 @@
+<stylecopresultscache>
+  <version>10</version>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>05/05/2011 15:48:22</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>05/04/2011 10:38:34</timestamp>
+    <milliseconds>0</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <project key="-580481323">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="Program.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>05/05/2011 15:52:42</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>05/05/2011 15:52:26</timestamp>
+    <milliseconds>0</milliseconds>
+    <violations>
+      <violation namespace="StyleCopDemo.InstanceVariablesVarPrefix" rule="InstanceVariablesVarPrefix" ruleCheckId="EX1001">
+        <context>Instance variables should be prefixed by var keyword.</context>
+        <line>13</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+</stylecopresultscache>

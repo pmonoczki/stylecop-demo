@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StyleCopDemo", "StyleCopDemo\StyleCopDemo.csproj", "{EECE104F-BCE3-4EB5-8286-A49127FD899A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStyleCopRuleDemo", "CustomStyleCopRuleDemo\CustomStyleCopRuleDemo.csproj", "{C1CFA43A-E5BB-4451-96CC-686E3EB308DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECE104F-BCE3-4EB5-8286-A49127FD899A}.Debug|x86.ActiveCfg = Debug|x86
+		{EECE104F-BCE3-4EB5-8286-A49127FD899A}.Debug|x86.Build.0 = Debug|x86
+		{EECE104F-BCE3-4EB5-8286-A49127FD899A}.Release|x86.ActiveCfg = Release|x86
+		{EECE104F-BCE3-4EB5-8286-A49127FD899A}.Release|x86.Build.0 = Release|x86
+		{C1CFA43A-E5BB-4451-96CC-686E3EB308DB}.Debug|x86.ActiveCfg = Debug|x86
+		{C1CFA43A-E5BB-4451-96CC-686E3EB308DB}.Debug|x86.Build.0 = Debug|x86
+		{C1CFA43A-E5BB-4451-96CC-686E3EB308DB}.Release|x86.ActiveCfg = Release|x86
+		{C1CFA43A-E5BB-4451-96CC-686E3EB308DB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
